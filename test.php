@@ -1,6 +1,7 @@
 <?php
 	echo 'First Line';
 <<<<<<< HEAD
+echo 'MOthers eye';
 	echo 'Second Line by me';
 =======
 	echo 'Rajesh has manually added this line';

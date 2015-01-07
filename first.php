@@ -1,5 +1,4 @@
 <?php
-/* first hunk */
 echo "vinayak:first line";
 echo 'Rajesh: first line below vinayal';
 echo 'Kevin:second line';

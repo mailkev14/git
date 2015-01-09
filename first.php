@@ -6,4 +6,7 @@ echo 'Kevin:second line';
 echo "vinayak:second line";
 echo 'Kevin:second round';
 echo 'Rajesh: first line at the end';
+
+/* second hunk */
+echo 'Line added on 9-1-2015';
 ?>

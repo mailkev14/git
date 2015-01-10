@@ -12,4 +12,6 @@ echo 'Line added on 9-1-2015';
 
 /* modified line on 10-1-2015 */
 echo 'new line on 10-1-2015';
+
+/* testing conflicts -1 */
 ?>
